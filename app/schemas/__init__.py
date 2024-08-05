@@ -1,0 +1,1 @@
+from app.schemas.plots import PlotsSchema, PlotsCreateRequestSchema
